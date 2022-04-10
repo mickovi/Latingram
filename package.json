@@ -17,6 +17,8 @@
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.2.10"
+    "mongoose": "^6.2.10",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.1.2"
   }
 }
