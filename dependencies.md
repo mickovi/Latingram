@@ -32,3 +32,28 @@ $ npm i bcryptjs
 ```console
 $ npm i jsonwebtoken
 ```
+
+### CLIENTE
+
+#### Instalar vite
+```console
+Latingram$ npm create vite@latest
+Latingram$ cd client
+client$ npm install
+client$ npm run dev
+```
+
+#### Instalar Semantic UI
+```console
+$ npm i semantic-ui-react semantic-ui-css
+```
+
+#### Sass
+```console
+$ npm i sass
+```
+
+#### Apollo Client
+```console
+$ npm install @apollo/client graphql
+```
